@@ -1,8 +1,7 @@
 <div class="Box-body p-4">
 
-    <article class="markdown-body entry-content container-lg f5" itemprop="text"><h1 align="left" id="user-content-egbakou-title" dir="auto"><a id="user-content-hi-there-" class="anchor" aria-hidden="true" href="#hi-there-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Hi there 👋🏽</h1>
-    </article>
-        
+    <!--<article class="markdown-body entry-content container-lg f5" itemprop="text"><h1 align="left" id="user-content-egbakou-title" dir="auto"><a id="user-content-hi-there-" class="anchor" aria-hidden="true" href="#hi-there-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Hi there 👋🏽</h1>-->
+
 <h3 align="left" dir="auto"><a id="user-content-my-name-is-laurent" class="anchor" aria-hidden="true" href="#my-name-is-laurent"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>My name is Audu Godwin David</h3>
 I am a Software developer with experience in building intelligent &amp; scalable applications using .NET.
 I love Open Source, Backend, Serverless, Distributed systems and the challenges associated with them.
@@ -57,7 +56,7 @@ I like sharing my knowledge with other engineers.
     </td>
     <td align="center" width="96">
       <a href="#egbakou-tech">
-        <img src="https://devopedia.org/images/article/397/9618.1642936094.png" width="50" height="48" alt="Nginx" data-canonical-src="https://devopedia.org/images/article/397/9618.1642936094.png" style="max-width: 100%;">
+        <img src="https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/05/netlify-logo.png?fit=1200%2C600&ssl=1" width="50" height="48" alt="Nginx" data-canonical-src="https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/05/netlify-logo.png?fit=1200%2C600&ssl=1" style="max-width: 100%;">
       </a>
       <br>Nginx
     </td>
