@@ -36,18 +36,8 @@ I like sharing my knowledge with other engineers.
       </a>
       <br>Node JS
     </td>
-    <td align="center" width="96">
-      <a href="#egbakou-tech">
-        <img src="https://camo.githubusercontent.com/9255dba4a9ad5a906afd63a77b2d3498cbd7fa527008a417968683f5e8e545b2/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f342f34632f547970657363726970745f6c6f676f5f323032302e7376672f3132303070782d547970657363726970745f6c6f676f5f323032302e7376672e706e67" width="48" height="48" alt="TypeScript" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" style="max-width: 100%;">
-      </a>
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <a href="#egbakou-tech">
-        <img src="https://camo.githubusercontent.com/ebba410edfb05353d7b46b3107304e7deeee8c6c12bc8769115f2dce43d11da0/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f362f36612f4a6176615363726970742d6c6f676f2e706e67" width="48" height="48" alt="JS" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" style="max-width: 100%;">
-      </a>
-      <br>JS
-    </td>
+   
+    
     <td align="center" width="96">
       <a href="#egbakou-tech">
         <img src="https://camo.githubusercontent.com/bce4a35be96d1282bc9250212074d0a6ea401fb9003cd9079eaed951144281ee/68747470733a2f2f692e6962622e636f2f6a444772337a302f617a7572652d72656d6f766562672d707265766965772e706e67" width="48" height="48" alt="Azure" data-canonical-src="https://i.ibb.co/jDGr3z0/azure-removebg-preview.png" style="max-width: 100%;">
